@@ -1,0 +1,6 @@
+.*
+!.gitignore
+cmake-build-debug/
+*.vcxproj
+*.filters
+*.user
